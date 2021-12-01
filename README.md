@@ -1,9 +1,21 @@
 - 👋 Hi, I’m @Samuel-Hendryx-HCL
 
 - 👀 I’m interested in ...
-  - 🏢Work:    Java, Python, Android
-  - 🏓Fun:     4-Wheeling, Cars, Electronics, Music
-  - 👨‍👨‍👦‍👦Family: Austism Awareness and Understanding, Camping, Hiking, Sleeping
+  - 👨‍👨‍👦‍👦Family...
+    - Austism Awareness and Understanding
+    - Camping
+    - Hiking
+    - Sleeping
+  - 🏢Work...
+    - Java
+    - Python
+    - Android
+  - 🏓Hobies...
+    - 4-Wheeling
+    - Cars
+    - Electronics
+    - Music
+  
 
 - 🌱 I’m currently learning ...
   - Java, Google API
