@@ -18,7 +18,11 @@
   
 
 - 🌱 I’m currently learning ...
-  - Java, Google API
+  - Java
+  - SQL
+  - Git
+  - Google API
+  - How to be a good dad
 
 - 💞️ I’m looking to collaborate on ...
 
