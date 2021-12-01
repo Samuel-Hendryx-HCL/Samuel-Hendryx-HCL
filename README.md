@@ -23,7 +23,7 @@
 - 💞️ I’m looking to collaborate on ...
 
 - 📫 How to reach me ...
-  - samuel.hendryx@HCL.com
+  - samuel.hendryx@[companyname].com
 
 <!---
 Samuel-Hendryx-HCL/Samuel-Hendryx-HCL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
